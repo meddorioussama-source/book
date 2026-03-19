@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 54865985-44f5-498e-96a5-b4dfa904f3d8
+  title: test book
+  # description:
+  # keywords: []
+  authors: [oussama]
+  github: https://github.com/meddorioussama-source
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  logo: chad.png
